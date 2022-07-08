@@ -8,18 +8,14 @@ The following steps were performed:
 2.   Selection features
 3.   Data preparation
 4.   Model Training
-    *   Dummy Model
-    *   Decision Tree Model
-    *   Polynomial Regression
-    *   Random Forest
+*   Dummy Model
+*   Decision Tree Model
+*   Polynomial Regression
+*   Random Forest
 5.   Evaluation and selection the best model
 
 ---
 
 Additional information:
-
-*   PM1 is not calibrated and therefore may be greater than PM2.5
-*   PM2.5 may be greater than PM10 within the limits of measurement error
-*   For the first two months, humidity and temperature were not calibrated and therefore may show inaccurate values
 
 The project uses data from kaagle: https://www.kaggle.com/datasets/datascienceairly/air-quality-data-from-extensive-network-of-sensors
