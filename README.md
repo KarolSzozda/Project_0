@@ -8,10 +8,10 @@ The following steps were performed:
 2.   Selection features
 3.   Data preparation
 4.   Model Training
-    *   Dummy Model
-    *   Decision Tree Model
-    *   Polynomial Regression
-    *   Random Forest
+   *   Dummy Model
+   *   Decision Tree Model
+   *   Polynomial Regression
+   *   Random Forest
 5.   Evaluation and selection the best model
 
 ---
